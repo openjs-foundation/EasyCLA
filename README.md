@@ -6,7 +6,7 @@ Easy-CLA is a bot developed by the Linux Foundation for tracking CLA signatures 
 ### Do I have to use a CLA for my project?
 No. Projects that would prefer to use a DCO will be directed to use [probot-dco](https://github.com/probot/dco). The foundation is aware of an issue with the DCO implementation and users of GitHub's GUI; we will have a developed work around for this issue soon. 
 
-All OpenJS Foundations should use either a CLA, DCO, or signed commits as a matter of good IPR hygiene.
+All OpenJS Foundation projects should use either a CLA, DCO, or signed commits as a matter of good IPR hygiene.
 
 ### What is the OpenJS Foundation CLA?
 In plain terms, the OpenJS Foundation's CLA says that the contributor 1) is legally able to make the contributions, 2) agrees to contribute to OpenJS Foundation projects in accordance with the licenses in their respective repositories, and 3) understands that their contributions are public. Contributors are responsible for reviewing these licenses and ensuring their contributions are compatible. 
