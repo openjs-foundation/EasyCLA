@@ -16,7 +16,7 @@ There is no cost to signing the OpenJS Foundation CLA. Please note that this is 
 
 You can sign the OpenJS Foundation CLA as an individual, or your company can sign and authorize you as a contributor. 
 
-The individual workflow is for people who can make CLA commitments on their own behalf (e.g., hobbyists, students, sole proprietors, etc). This workflow is fast and easy, but may not be appropriate for people who are doing work-for-hire. The corporate workflow involves more steps, but allows a company to sign one document one time for all of their contributors.
+The individual workflow is for people who can make CLA commitments on their own behalf (e.g. hobbyists, students, sole proprietors, etc). This workflow is fast and easy, but may not be appropriate for people who are doing work-for-hire. The corporate workflow involves more steps, but allows a company to sign one document one time for all of their contributors.
 
 At a high level, the signature process works like this:
 
@@ -53,13 +53,13 @@ Here are the steps to have your company sign the CLA.
 1. Open a PR against a repo that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Corporate*.
 1. Choose your company from the list. If it's not there, add it.
-1. Designate someone with signing authority (generally an officer or attorney, if in doubt ask your manager) to receive the DocuSign. This person is the *CLA Manager*.
+1. Designate someone with signing authority (generally an officer or attorney, if in doubt ask your manager) to receive the DocuSign form. This person is the *CLA Manager*.
 1. Follow up with the CLA Manager and ask them to sign the DocuSign form.
 1. The CLA Manager can now designate other CLA Managers who are allowed to manage your company's list of authorized contributors.
 
 ### When your company has finished signing the agreement
 
-1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](https://easycla.lfx.linuxfoundation.org/#/) (choose EasyCLA v1) and either:
+1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](https://easycla.lfx.linuxfoundation.org) (choose EasyCLA v1) and either:
   * Add your GitHub username individually to the list of authorized contributors, or
   * Add your corporate email domain, which authorizes anyone who has that email in their GitHub account, or
   * Add a corporate GitHub Organization, where any member of the org is covered by the CLA.
