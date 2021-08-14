@@ -8,7 +8,7 @@ The OpenJS Foundation uses [EasyCLA](https://lfcla.com) to ensure that all contr
 * Contributors may sign as individuals, or their company can sign on their behalf.
 * Companies who sign the CLA can authorize employee usernames individually, add an entire email domain, or specify a GitHub organization containing their employees as members.
 
-There is no cost to signing the OpenJS Foundation CLA. Please note that this is different from [membership in the OpenJS Foundation](https://openjsf.org/about/members). If your organization relies upon our projects, [please become a member](https://join.openjsf.org). Membership dues are an essential source of funding, and we rely upon them to support the OpenJS project ecosystem.
+There is no cost to sign the OpenJS Foundation CLA. Please note that this is different from [membership in the OpenJS Foundation](https://openjsf.org/about/members). If your organization relies upon our projects, [please become a member](https://join.openjsf.org). Membership dues are an essential source of funding, and we rely upon them to support the OpenJS project ecosystem.
 
 ## How to use EasyCLA
 
@@ -33,7 +33,7 @@ If you simply want to sign the documents in preparation for future contributions
 
 ## Sign as an individual
 
-If you are working on your own behalf and can make IP commitments about what you produce, you can sign as an individual contributor. 
+If you are working on your own behalf and can make IP commitments about what you produce, you can sign as an individual contributor. ([Preview the document](./openjs_foundation_icla-PREVIEW.pdf))
 
 1. Open a PR against a repo that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Individual*.
@@ -46,7 +46,7 @@ That's all there is to it.
 
 If you are doing work for someone else (e.g., it's your job), the company might need to sign for you. The advantage here is that they can authorize other employees with a single signature. If your company has already signed the document but you're still blocked, you may just need to request your username be added to the list of authorized contributors. Once this is complete you'll just have to confirm you work for them by clicking through the process one final time.
 
-Here are the steps to have your company sign the CLA.
+Here are the steps to have your company sign the CLA. ([Preview the document](./openjs_foundation_ccla-PREVIEW.pdf))
 
 ### If your company hasn't yet signed the agreement
 
@@ -59,7 +59,7 @@ Here are the steps to have your company sign the CLA.
 
 ### When your company has finished signing the agreement
 
-1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](https://easycla.lfx.linuxfoundation.org/#/) (choose EasyCLA v1) and either:
+1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](https://easycla.lfx.linuxfoundation.org/#/) (choose EasyCLA v2) and either:
   * Add your GitHub username individually to the list of authorized contributors, or
   * Add your corporate email domain, which authorizes anyone who has that email in their GitHub account, or
   * Add a corporate GitHub Organization, where any member of the org is covered by the CLA.
