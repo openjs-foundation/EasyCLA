@@ -10,11 +10,12 @@ The OpenJS Foundation uses [EasyCLA](https://lfcla.com) to ensure that all contr
 
 There is no cost to sign the OpenJS Foundation CLA. Please note that this is different from [membership in the OpenJS Foundation](https://openjsf.org/about/members). If your organization relies upon our projects, [please become a member](https://join.openjsf.org). Membership dues are an essential source of funding, and we rely upon them to support the OpenJS project ecosystem.
 
+
 ## How to use EasyCLA
 
 ### Who signs the documents?
 
-You can sign the OpenJS Foundation CLA as an individual, or your company can sign and authorize you as a contributor. 
+You can sign the OpenJS Foundation CLA as an individual, or your company can sign and authorize you as a contributor.
 
 The individual workflow is for people who can make CLA commitments on their own behalf (e.g., hobbyists, students, sole proprietors, etc). This workflow is fast and easy, but may not be appropriate for people who are doing work-for-hire. The corporate workflow involves more steps, but allows a company to sign one document one time for all of their contributors.
 
