@@ -10,6 +10,8 @@ The OpenJS Foundation uses [EasyCLA](https://lfcla.com) to ensure that all contr
 
 There is no cost to sign the OpenJS Foundation CLA. Please note that this is different from [membership in the OpenJS Foundation](https://openjsf.org/about/members). If your organization relies upon our projects, [please become a member](https://join.openjsf.org). Membership dues are an essential source of funding, and we rely upon them to support the OpenJS project ecosystem.
 
+Yes!
+
 ## How to use EasyCLA
 
 ### Who signs the documents?
