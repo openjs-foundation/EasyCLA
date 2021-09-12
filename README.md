@@ -1,4 +1,4 @@
-A minor change for a PR - and again
+A minor change for a PR - and again - once more
 # OpenJS Foundation CLA
 
 The OpenJS Foundation IP policy specifies that projects should use the [Developer Certificate of Origin](https://developercertificate.org) (DCO) or, optionally, can adopt the OpenJS Foundation CLA. The OpenJS Foundation Board of Directors has adopted [Individual](https://individual-cla.openjsf.org) and [Corporate](https://corporate-cla.openjsf.org) CLA derived from the commonly used Apache-style CLA template.
