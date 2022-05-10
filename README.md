@@ -1,6 +1,6 @@
 # OpenJS Foundation CLA
 
-The OpenJS Foundation IP policy specifies that projects should use the [Developer Certificate of Origin](https://developercertificate.org) (DCO) or, optionally, can adopt the OpenJS Foundation CLA. The OpenJS Foundation Board of Directors has adopted [Individual](https://individual-cla.openjsf.org) and [Corporate](https://corporate-cla.openjsf.org) CLA derived from the commonly used Apache-style CLA template.
+The OpenJS Foundation IP policy specifies that projects should use the [Developer Certificate of Origin](https://developercertificate.org) (DCO) or, optionally, can adopt the OpenJS Foundation CLA. The OpenJS Foundation Board of Directors has adopted [Individual](https://individual-cla.openjsf.org) and [Corporate](https://corporate-cla.openjsf.org) CLA derived from the commonly used Apache-style CLA template. Trivial PR.
 
 The OpenJS Foundation uses [EasyCLA](https://lfcla.com) to ensure that all contributors have signed the appropriate documents when contributing to a project which requires a CLA. This tool was created and is maintained by the Linux Foundation, and has a number of features designed to support our open source project communities:
 
