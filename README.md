@@ -115,3 +115,5 @@ If your company benefits from this project and you would like to provide essenti
 ### 4. Request that EasyCLA be enabled
 
 When the above steps are complete, please reach out to [Brian Warner](mailto:operations@openjsf.org) and EasyCLA will be enabled for your repos.
+
+Change made just for me to sign the CLA, please don't merge this.
