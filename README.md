@@ -94,7 +94,7 @@ You may also want to open an issue letting others know that this will be happeni
 
 ### 2. Prepare your GitHub organization
 
-You will need to add an OpenJS Foundation staff member to your org to set up EasyCLA for your organization. Reach out to [Brian Warner](mailto:operations@openjsf.org) to coordinate on the details.
+You will need to add an OpenJS Foundation staff member to your org to set up EasyCLA for your organization. Reach out to [OpenJS Foundation Staff Team](mailto:operations@openjsf.org) to coordinate on the details.
 
 ### 3. Add instructions to your project
 
