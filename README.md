@@ -1,4 +1,11 @@
-# OpenJS Foundation CLA
+<a href="https://openjsf.org">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color-dark_background.svg" />
+     <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color.svg" width="200" alt="Openjs Foundation Logo" />
+   </picture>
+</a>
+
+# CLA
 
 The OpenJS Foundation IP policy specifies that projects should use the [Developer Certificate of Origin](https://developercertificate.org) (DCO) or, optionally, can adopt the OpenJS Foundation CLA. The OpenJS Foundation Board of Directors has adopted [Individual](https://individual-cla.openjsf.org) and [Corporate](https://corporate-cla.openjsf.org) CLA derived from the commonly used Apache-style CLA template.
 
