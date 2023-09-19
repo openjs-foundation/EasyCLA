@@ -14,7 +14,7 @@ There is no cost to sign the OpenJS Foundation CLA. Please note that this is dif
 
 ### Who signs the documents?
 
-You can sign the OpenJS Foundation CLA as an individual, or your company can sign and authorize you as a contributor. 
+You can sign the OpenJS Foundation CLA as an individual, or your company can sign and authorize you as a contributor.
 
 The individual workflow is for people who can make CLA commitments on their own behalf (e.g., hobbyists, students, sole proprietors, etc). This workflow is fast and easy, but may not be appropriate for people who are doing work-for-hire. The corporate workflow involves more steps, but allows a company to sign one document one time for all of their contributors.
 
