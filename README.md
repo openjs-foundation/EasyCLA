@@ -20,7 +20,7 @@ The individual workflow is for people who can make CLA commitments on their own 
 
 At a high level, the signature process works like this:
 
-1. Open a PR against a repo covered by EasyCLA (including this one).
+<!-- 1. Open a PR against a repo covered by EasyCLA (including this one). -->
 1. A bot will check whether your GitHub user is covered by a signed CLA.
 1. If you're already covered you will get a green checkmark, and your contribution can be merged.
 1. If you're not covered, you'll be prompted through the signature process.
